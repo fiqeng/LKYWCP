@@ -1,0 +1,22 @@
+to convert into virtual environment
+.\venv\Scripts\Activate.ps1
+
+to run streamlit
+streamlit run lkywcp_dashboard.py
+
+streamlit run lkywcp_dashboard2.py
+
+
+
+
+
+lkywcp_dashboard (code integrates basic PRAW and NewsAPI capabilities, with Textblob NLP sentiment analysis and ChatGPT short paragraph summarisation)
+
+lkywcp_dashboard2 (second iteration integrates chatgpt to analyse the headlines, providing a score and rating as well as relevant reasoning. moving on, can improve on keyword association so more relevant facts can be found instead of any post)
+
+lkywcp_dashboard3 (third iteration, provides better UIUX with improved usability and customisaibility.)
+
+to do 23/7: summary of analysis too short should be in point form and more substantial to be useful, but still kept in readable format.
+include deep research, 
+
+22/7: added deep research function, should test it first thing in the morning  to see if the function adapts to the user's selections of cities and pillars.
